@@ -1,2 +1,2 @@
 # Trial-first
-I a m trying something new and this is my first website
+I am trying something new and this is my first website
